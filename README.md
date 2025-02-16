@@ -1,5 +1,9 @@
-# Mubadi'ul Fitriyani - Data Analyst Portfolio
+# Data Analyst Portfolio
 
-## Table of Content
-- SQL
-    - **[Olist Store Brazil Analyst](#olist-store-brazil-analyst)**
+## Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - **SQL**
+    - [Analyzing the Factors Contributing to the Success of a Movie](#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+
+
