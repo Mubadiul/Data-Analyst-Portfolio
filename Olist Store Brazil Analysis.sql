@@ -164,3 +164,23 @@ join customers c on o.customer_id = c.customer_id
 join sellers s on oi.seller_id = s.seller_id
 group by s.seller_city, c.customer_city, zip_distance
 order by zip_distance asc;
+
+-- Average delivery time for each customer city
+with shipping_time as (
+    select 
+        o.order_id,
+        c.customer_city,
+        date_part('day', o.order_delivered_customer_date - o.order_approved_at) as delivery_days
+    from orders o
+    join customers c on o.customer_id = c.customer_id
+    where o.order_delivered_customer_date is not null 
+      and o.order_approved_at is not null
+)
+
+select 
+    customer_city, 
+    round(avg(delivery_days)::numeric, 2) as avg_delivery_days
+from shipping_time
+group by customer_city
+order by avg_delivery_days desc;
+
