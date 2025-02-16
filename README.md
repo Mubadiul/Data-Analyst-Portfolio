@@ -21,7 +21,7 @@ Hi, I'm **Mubadi'ul Fitriyani**, a Data Analyst with expertise in Python, SQL, a
 ### **SQL**
 
 ## Contacts
-- **LinkedIn:**[@mubadiulfitriyani](www.linkedin.com/in/mubadiulfitriyani)
-- **Email:**[mbadiulfitriyani391@gmail.com](mbadiulfitriyani391@gmail.com)
+- **LinkedIn:** [@mubadiulfitriyani](www.linkedin.com/in/mubadiulfitriyani)
+- **Email:** [mbadiulfitriyani391@gmail.com](mbadiulfitriyani391@gmail.com)
 
 
