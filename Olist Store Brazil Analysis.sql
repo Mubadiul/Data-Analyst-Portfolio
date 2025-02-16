@@ -157,7 +157,7 @@ select
     s.seller_city,
     c.customer_city,
     abs(s.seller_zip_code_prefix - c.customer_zip_code_prefix) as zip_distance,
-    ROUND(avg(oi.freight_value), 2) as avg_freight_cost
+    round(avg(oi.freight_value), 2) as avg_freight_cost
 from order_items oi
 join orders o on oi.order_id = o.order_id
 join customers c on o.customer_id = c.customer_id
