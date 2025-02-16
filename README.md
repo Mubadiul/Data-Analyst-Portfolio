@@ -5,7 +5,7 @@ Hi, I'm **Mubadi'ul Fitriyani**, data analyst enthusiast with a background in St
 
 ## Table of Contents
 - [About](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects]([#portfolio-projects](https://github.com/Mubadiul/Data-Analyst-Portfolio#portfolio-projects))
+- [Portfolio Projects](https://github.com/Mubadiul/Data-Analyst-Portfolio#portfolio-projects)
   - **SQL**
     - [Olist Store Brazil Analysis](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/Olist%20Store%20Brazil%20Analysis.sql)
   - **Tableau**
