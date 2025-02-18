@@ -9,7 +9,7 @@ Hi, I'm **Mubadi'ul Fitriyani**, data analyst enthusiast with a background in St
   - **SQL**
     - [Olist Store Brazil Analysis](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/README.md#olist-store-brazil-analysis)
   - **Tableau**
-    - [Super Store Analysis] ()
+    - [Super Store Analysis](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/README.md#super-store-analaysis)
 
 ---
 
