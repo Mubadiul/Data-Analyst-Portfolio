@@ -9,10 +9,7 @@ Hi, I'm **Mubadi'ul Fitriyani**, data analyst enthusiast with a background in St
   - **SQL**
     - [Olist Store Brazil Analysis](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/README.md#olist-store-brazil-analysis)
   - **Tableau**
-  - **Excel**
-  - **Python**
-  - **R**
-  - **Power BI**
+    - [Super Store Analysis] ()
 
 ---
 
@@ -23,6 +20,11 @@ In this section you can find short summary of the listed projects for quick comp
 **Code:** [Olist Store Brazil Analysis.sql](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/Olist%20Store%20Brazil%20Analysis.sql)
 
 This project focuses on analyzing e-commerce transaction data using SQL to gain business insights. The distribution of payment methods, total revenue, and the number of orders per seller are examined to understand transaction patterns. Customer and product rankings based on transaction volume are identified, followed by calculations of average delivery time and shipping costs per city. Customer retention and churn rates are evaluated, while product profit margins and order cancellation comparisons are further analyzed. Additionally, the relationship between distance and shipping costs is explored. These analyses aim to support decision-making in e-commerce business strategies and operations.
+
+### **Super Store Analaysis**
+**Code:** [Super Store Analysis](https://public.tableau.com/shared/M8TXRS2XT?:display_count=n&:origin=viz_share_link)
+
+This project
 
 ## Contacts
 - **LinkedIn:** [@mubadiulfitriyani](www.linkedin.com/in/mubadiulfitriyani)
