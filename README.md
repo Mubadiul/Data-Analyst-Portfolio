@@ -7,10 +7,12 @@ Hi, I'm **Mubadi'ul Fitriyani**, data analyst enthusiast with a background in St
 - [About](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Mubadiul/Data-Analyst-Portfolio#portfolio-projects)
   - **SQL**
-    - [Olist Store Brazil Analysis](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/Olist%20Store%20Brazil%20Analysis.sql)
+    - [Analysis - Olist Store Brazil](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/Olist%20Store%20Brazil%20Analysis.sql)
   - **Tableau**
-    - [Super Store Analysis](https://public.tableau.com/shared/M8TXRS2XT?:display_count=n&:origin=viz_share_link)
-
+    - [Dashboard - Super Store](https://public.tableau.com/shared/M8TXRS2XT?:display_count=n&:origin=viz_share_link)
+  - **Python**
+    - [Data Wrangling - House Price](link)
+      
 ---
 
 ## Portfolio Projects
@@ -24,7 +26,7 @@ This project focuses on analyzing e-commerce transaction data using SQL to gain 
 ### **Super Store Analaysis**
 **Code:** [Super Store Analysis.twbx](https://public.tableau.com/shared/M8TXRS2XT?:display_count=n&:origin=viz_share_link)
 
-**Image:** [Super Store Analysis.png](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/Super%20Store%20Dashboard.png)
+**Image output:** [Super Store Analysis.png](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/Super%20Store%20Dashboard.png)
 
 This project focuses on analyzing sales performance, customer segmentation, and product trends using an interactive dashboard. The analysis includes total sales, profit, and order count to evaluate business performance. Sales distribution is visualized across states, while customer segmentation categorizes buyers into Consumer, Corporate, and Home Office. The dashboard identifies top-selling products and sub-categories, providing insights into revenue drivers. Additionally, shipping mode analysis helps understand order distribution by delivery type, and a monthly sales trend chart highlights seasonal patterns. This dashboard enables data-driven decision-making to optimize sales strategies and operational efficiency.
 
