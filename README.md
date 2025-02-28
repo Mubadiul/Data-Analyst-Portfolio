@@ -1,7 +1,7 @@
 # Mubadi'ul Fitriyani - Data Analyst Portfolio
 
 ## About
-Hi, I'm **Mubadi'ul Fitriyani**, data analyst enthusiast with a background in Statistics, passionate about leveraging analytics to drive business insights and innovation
+Hi, I'm **Mubadi'ul Fitriyani**, a Data Analyst who enjoys working with data to uncover useful insights. I have an interest in solving problems through data-driven approaches and appreciate how data can support better decision-making. The projects below reflect the experience and skills I gained during my time in college.
 
 ## Table of Contents
 - [About](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/README.md#about)
