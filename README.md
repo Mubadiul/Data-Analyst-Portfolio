@@ -12,7 +12,9 @@ Hi, I'm **Mubadi'ul Fitriyani**, a Data Analyst who enjoys working with data to 
     - [Dashboard - Super Store](https://public.tableau.com/shared/M8TXRS2XT?:display_count=n&:origin=viz_share_link)
   - **Python**
     - [Data Processing - House Price](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/Data%20Processing%20-%20House%20Price.ipynb)
-      
+  - **R**
+    - [Web Interface RShiny - Child Nutrition Status] ()
+        
 ---
 
 ## Portfolio Projects
