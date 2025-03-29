@@ -46,6 +46,6 @@ This project focuses to develop a web interface to determine the nutritional sta
 
 ## Contacts
 - **LinkedIn:** [@mubadiulfitriyani](www.linkedin.com/in/mubadiulfitriyani)
-- **Email:** [mbadiulfitriyani391@gmail.com](mbadiulfitriyani391@gmail.com)
+- **Email:** [mubadiulfitriyani391@gmail.com](mubadiulfitriyani391@gmail.com)
 
 
