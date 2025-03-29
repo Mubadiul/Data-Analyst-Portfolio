@@ -37,6 +37,13 @@ This project focuses on analyzing sales performance, customer segmentation, and 
 
 This project focuses on exploring and processing house price data using Python. The first step is to understand the dataset structure by examining data types and detecting missing values. Missing values are handled based on their nature, distinguishing between truly missing values and those intentionally marked as "NA" to indicate the absence of a specific feature. Next, numerical and categorical data are processed with appropriate imputation techniques. This is followed by detecting and handling outliers using the IQR method to ensure a more representative data distribution. Visual analyses, such as boxplots and probability distributions, are used to identify patterns within the dataset. With this approach, the dataset is prepared for further analysis or predictive modeling to determine factors influencing house prices.
 
+### **Dashboard - Super Store Analaysis**
+**Code:** [RShiny for Child Nutrition Status.R](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/RShiny%20for%20Child%20Nutrition%20Status.R)
+
+**Website:** [Webse Link for Child Nutrition Status](https://mubadiulfitriyani.shinyapps.io/statusgizibalitajatim/)
+
+This project focuses to develop a web interface to determine the nutritional status of toddlers in East Java Province, Indonesia. Users can input the child's name, weight, height, and date of birth. Additionally, users can choose the nutritional status standard based on the WHO Standard or the Local Standard Design (East Java Province). The output includes the nutritional status category along with a growth chart. Furthermore, the website provides articles on child health.
+
 ## Contacts
 - **LinkedIn:** [@mubadiulfitriyani](www.linkedin.com/in/mubadiulfitriyani)
 - **Email:** [mbadiulfitriyani391@gmail.com](mbadiulfitriyani391@gmail.com)
