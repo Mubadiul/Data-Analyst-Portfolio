@@ -7,14 +7,14 @@ Hi, I'm **Mubadi'ul Fitriyani**, a Data Analyst who enjoys working with data to 
 - [About](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Mubadiul/Data-Analyst-Portfolio#portfolio-projects)
   - **SQL**
-    - [Olist Store Analysis](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/olist_store_analysis.sql)
+    - [Olist Store Analysis.sql](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/olist_store_analysis.sql)
   - **Tableau**
-    - [Superstore Dashboard](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/superstore-dashboard.twbx)
+    - [Superstore Dashboard.twbx](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/superstore-dashboard.twbx)
   - **Python**
-    - [House Price Data Processing](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/house_price_data_processing.ipynb)
-    - [Air BnB Data Processing](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/airbnb_data_processing.ipynb)
+    - [House Price Data Processing.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/house_price_data_processing.ipynb)
+    - [Air BnB Data Processing.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/airbnb_data_processing.ipynb)
   - **R**
-    - [RShiny Child Nutrition Status](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/rshiny_child_nutrition.R)
+    - [RShiny Child Nutrition Status.R](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/rshiny_child_nutrition.R)
         
 ---
 
