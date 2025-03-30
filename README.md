@@ -27,7 +27,7 @@ In this section you can find short summary of the listed projects for quick comp
 This project focuses on analyzing e-commerce transaction data using SQL to gain business insights. The distribution of payment methods, total revenue, and the number of orders per seller are examined to understand transaction patterns. Customer and product rankings based on transaction volume are identified, followed by calculations of average delivery time and shipping costs per city. Customer retention and churn rates are evaluated, while product profit margins and order cancellation comparisons are further analyzed. Additionally, the relationship between distance and shipping costs is explored. These analyses aim to support decision-making in e-commerce business strategies and operations.
 
 ### **Dashboard - Supersttore Analaysis**
-**Code:** [Superstore Dashboard.twbx](https://public.tableau.com/shared/M8TXRS2XT?:display_count=n&:origin=viz_share_link)
+**Tableau Public:** [Superstore Dashboard.twbx](https://public.tableau.com/shared/M8TXRS2XT?:display_count=n&:origin=viz_share_link)
 
 **Image output:** [Superstore Dashboard.png](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/Super%20Store%20Dashboard.png)
 
@@ -46,7 +46,7 @@ This project focuses on exploring and processing house price data using Python. 
 This project focuses to develop a web interface to determine the nutritional status of toddlers in East Java Province, Indonesia. Users can input the child's name, weight, height, and date of birth. Additionally, users can choose the nutritional status standard based on the WHO Standard or the Local Standard Design (East Java Province). The output includes the nutritional status category along with a growth chart. Furthermore, the website provides articles on child health.
 
 ### **Data Processing - Air BnB**
-**Code:** [Air BnB Data Processing](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/airbnb_data_processing.ipynb)
+**Code:** [Air BnB Data Processing.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/airbnb_data_processing.ipynb)
 
 This project focuses on processing and analyzing Airbnb listing data using Python, specifically leveraging Pandas, NumPy, Seaborn, and Matplotlib. The data processing phase involves selecting relevant columns such as host details, price, and property attributes, converting date columns into the proper datetime format, and cleaning percentage-based values like host response rates. Missing values are handled using mode and median imputation, while categorical inconsistencies in property types are standardized to ensure uniformity. Additionally, duplicate records are removed, and outliers in price data are addressed using the interquartile range (IQR) method to improve data reliability.
 
