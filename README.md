@@ -11,7 +11,7 @@ Hi, I'm **Mubadi'ul Fitriyani**, a Data Analyst who enjoys working with data to 
   - **Tableau**
     - [Superstore Dashboard.twbx](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/superstore-dashboard.twbx)
   - **Python**
-    - [House Price Data Processing.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/house_price_data_processing.ipynb)
+    - [House Price Data Wrangling.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/house_price_data_wrangling.ipynb)
     - [Air BnB Data Processing.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/airbnb_data_processing.ipynb)
   - **R**
     - [RShiny Child Nutrition Status.R](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/rshiny_child_nutrition.R)
@@ -34,7 +34,7 @@ This project focuses on analyzing e-commerce transaction data using SQL to gain 
 This project focuses on analyzing sales performance, customer segmentation, and product trends using an interactive dashboard. The analysis includes total sales, profit, and order count to evaluate business performance. Sales distribution is visualized across states, while customer segmentation categorizes buyers into Consumer, Corporate, and Home Office. The dashboard identifies top-selling products and sub-categories, providing insights into revenue drivers. Additionally, shipping mode analysis helps understand order distribution by delivery type, and a monthly sales trend chart highlights seasonal patterns. This dashboard enables data-driven decision-making to optimize sales strategies and operational efficiency.
 
 ### **Data Processing - House Price**
-**Code:** [House Price Data Processing.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/house_price_data_processing.ipynb)
+**Code:** [House Price Data wrangling.ipynb](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/house_price_data_wrangling.ipynb)
 
 This project focuses on exploring and processing house price data using Python. The first step is to understand the dataset structure by examining data types and detecting missing values. Missing values are handled based on their nature, distinguishing between truly missing values and those intentionally marked as "NA" to indicate the absence of a specific feature. Next, numerical and categorical data are processed with appropriate imputation techniques. This is followed by detecting and handling outliers using the IQR method to ensure a more representative data distribution. Visual analyses, such as boxplots and probability distributions, are used to identify patterns within the dataset. With this approach, the dataset is prepared for further analysis or predictive modeling to determine factors influencing house prices.
 
